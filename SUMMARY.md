@@ -7,4 +7,5 @@
 * [নিরাপদ ইনস্টলেশন](secure-installation.md)
 * [ফাইল পারমিশন](file-permission.md)
 * [ব্রুটফোর্স থেকে নিরাপদে থাকা](brute-force.md)
+* সিকিউরিটি ট্রিকস
 

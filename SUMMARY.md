@@ -5,5 +5,6 @@
 * [ভূমিকা](introduction.md)
 * [ভালনারিবিলিটির তালিকা](bugs.md)
 * [নিরাপদ ইনস্টলেশন](secure-installation.md)
-* ফাইল পারমিশন
+* [ফাইল পারমিশন](file-permission.md)
+
 

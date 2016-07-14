@@ -1,1 +1,5 @@
 /* CSS for print */
+* {
+    font-size: 12pt;
+    font-family: SolaimanLipi, "Siyam Rupali", AponaLohit, Vrinda, sans-serif,;
+}

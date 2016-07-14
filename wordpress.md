@@ -1,3 +1,3 @@
-# First Chapter
+# ওয়ার্ডপ্রেস কি?
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+ওয়ার্ডপ্রেস একটি ওপেনসোর্স  কন্টেন্ট ম্যানেজম্যান্ট সিস্টেম, যা পিএইচপি এবং মাইসিকুয়েল ব্যবহার করে লেখা হয়েছে। এই ব্ইটি লেখার সময় ওয়ার্ডপ্রেস ৪.৫.৩ ভার্শন এ ছিলো। ২০০৩ সালের ২৭ মে Matt Mullenweg ও Mike Little ওয়ার্ডপ্রেস প্রকাশ করেন, এটি মুলত b2/cafelog এর একটি ফর্ক ছিলো। ওয়ার্ডপ্রেস GPLv2 লাইসেন্সের আওতায় প্রকাশ করা হয়েছে।

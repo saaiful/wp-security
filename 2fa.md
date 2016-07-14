@@ -1,6 +1,6 @@
 # মাল্টিফ্যাক্টর অথেনটিকেশন
 
-নিরাপত্তার জন্য শক্তিশালী/জটিল পাসোয়ার্ড আনার জন্য যথেষ্ট না হলে আপনি  মাল্টিফ্যাক্টর অথেনটিকেশন ব্যবহার করতে পারেন।
+নিরাপত্তার জন্য শক্তিশালী/জটিল পাসওয়ার্ড আপনার জন্য যথেষ্ট না হলে আপনি  মাল্টিফ্যাক্টর অথেনটিকেশন ব্যবহার করতে পারেন।
 
 ##[Google Authenticator](https://wordpress.org/plugins/google-authenticator/)
 আপনার `Android/iPhone/Blackberry` ফোন থাকলে আপনি **Google Authenticator** ব্যবহার করতে পারবেন। এর জন্য [Google Authenticator](https://wordpress.org/plugins/google-authenticator/) প্লাগিনটি ব্যবহার করতে হবে। 

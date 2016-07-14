@@ -6,6 +6,8 @@
 আপনার `Android/iPhone/Blackberry` ফোন থাকলে আপনি **Google Authenticator** ব্যবহার করতে পারবেন।
 
 
-##Email OPT
+##Email OTP
+
+ওয়ার্ডপ্রেসে সিকিউর লগিনের জন্য Email OPT ব্যবহার করতে পারেন। এর জন্য [Secure Login](https://wordpress.org/plugins/secure-login/) প্লাগিনটি ব্যবহার করতে হবে। 
 
 

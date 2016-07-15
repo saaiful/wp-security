@@ -18,11 +18,11 @@ audio:not([controls]) {
 }
 
 @font-face {
-    font-family: SolaimanLipi;
+    font-family: "SolaimanLipi";
     src: url(fonts/SolaimanLipi.ttf);
 }
 html {
-    font-family: SolaimanLipi;
+    font-family: "SolaimanLipi";
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
@@ -268,7 +268,7 @@ table {
 }
 
 body {
-    font-family: SolaimanLipi;
+    font-family: "SolaimanLipi";
     color: #000;
     text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
@@ -393,7 +393,7 @@ body {
 }
 
 .page .section code, .page .section pre {
-    font-family: SolaimanLipi;
+    font-family: "SolaimanLipi";
     direction: ltr;
     margin: 0;
     padding: 0;

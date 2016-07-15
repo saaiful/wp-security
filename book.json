@@ -5,5 +5,9 @@
     },
     "styles": {
         "pdf": "styles/pdf.css"
-    }
+    },
+    "plugins": [
+        "theme-arangodb"
+    ],
+    "pluginsConfig": {}
 }

@@ -12,6 +12,6 @@
     }
 },
     "styles": {
-        "pdf": "styles/pdf.css"
+       "pdf": "styles/pdf.css",
     }
 }

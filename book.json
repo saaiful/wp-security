@@ -3,8 +3,7 @@
         "headerTemplate": "ওয়ার্ডপ্রেস সিকিউরিটি - _SECTION_",
         "footerTemplate": "_AUTHOR_ / _PAGENUM_"
     },
-    "plugins": [
-        "customtheme"
-    ],
-    "pluginsConfig": {}
+    "styles": {
+        "pdf": "styles/pdf.css"
+    }
 }

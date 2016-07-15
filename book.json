@@ -9,5 +9,10 @@
     "plugins": [
         "theme-arangodb"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "theme-arangodb": {
+            "styles": "styles/pdf.css",
+            "showLevel": "false"
+        }
+    }
 }

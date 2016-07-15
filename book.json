@@ -15,6 +15,11 @@
     "pluginsConfig": {
         "pdf-styling": {
             "background": ""
+        },
+        "packt-fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": "2"
         }
     }
 }

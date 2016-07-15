@@ -1,4 +1,5 @@
 {
+  "gitbook": "3.x.x",
     "pdf": {
         "headerTemplate": "ওয়ার্ডপ্রেস সিকিউরিটি - _SECTION_",
         "footerTemplate": "_AUTHOR_ / _PAGENUM_"

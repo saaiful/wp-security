@@ -18,7 +18,7 @@ audio:not([controls]) {
 }
 
 html {
-    font-family: Solaimanlipi, AponaLohit, Verdana, sans-serif;
+    font-family: Solaimanlipi;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
@@ -263,7 +263,7 @@ table {
 }
 
 body {
-    font-family: Solaimanlipi, AponaLohit, Verdana, sans-serif;
+    font-family: Solaimanlipi;
     color: #000;
     text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
@@ -389,7 +389,7 @@ body {
 
 .page .section code, .page .section pre {
     /*font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;*/
-    font-family: Solaimanlipi, AponaLohit, Verdana, sans-serif;
+    font-family: Solaimanlipi;
     direction: ltr;
     margin: 0;
     padding: 0;

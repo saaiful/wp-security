@@ -5,6 +5,12 @@
         "headerTemplate": "ওয়ার্ডপ্রেস সিকিউরিটি - _SECTION_",
         "footerTemplate": "_AUTHOR_ / _PAGENUM_"
     },
+    "plugins": ["typekit@0.0.2"],
+        pluginsConfig: {
+          "typekit" : {
+          "kitID": "xxxXXX"
+    }
+},
     "styles": {
         "pdf": "styles/pdf.css"
     }

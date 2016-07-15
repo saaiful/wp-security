@@ -17,18 +17,15 @@ audio:not([controls]) {
     display: none
 }
 
-@font-face {
-    font-family: "SolaimanLipi";
-    src: url(fonts/SolaimanLipi.ttf);
-}
 html {
-    font-family: "SolaimanLipi";
+    font: 100% Solaimanlipi, AponaLohit, Verdana, Helvetica, Arial, sans-serif !important;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
 
 body {
-    margin: 0
+    margin: 0;
+    font: 100% Solaimanlipi, AponaLohit, Verdana, Helvetica, Arial, sans-serif !important;
 }
 
 a:focus {
@@ -100,7 +97,6 @@ sub {
 }
 
 img {
-	margin: auto;
     border: 0
 }
 
@@ -268,7 +264,7 @@ table {
 }
 
 body {
-    font-family: "SolaimanLipi";
+    font-family: sans-serif;
     color: #000;
     text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
@@ -393,7 +389,7 @@ body {
 }
 
 .page .section code, .page .section pre {
-    font-family: "SolaimanLipi";
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     direction: ltr;
     margin: 0;
     padding: 0;

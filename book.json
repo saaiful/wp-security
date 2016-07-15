@@ -13,12 +13,9 @@
         "packt-fontsettings"
     ],
     "pluginsConfig": {
-        "pdf-styling": {
-            "background": ""
-        },
         "packt-fontsettings": {
             "theme": "white",
-            "family": "sans",
+            "family": "Solaimanlipi",
             "size": "2"
         }
     }

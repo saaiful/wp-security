@@ -6,12 +6,12 @@
         "footerTemplate": "_AUTHOR_ / _PAGENUM_"
     },
     "plugins": ["typekit@0.0.2"],
-        pluginsConfig: {
-          "typekit" : {
-          "kitID": "xxxXXX"
-    }
-},
+    "pluginsConfig": {
+        "typekit": {
+            "kitID": "xxxXXX"
+        }
+    },
     "styles": {
-       "pdf": "styles/pdf.css",
+        "pdf": "styles/pdf.css",
     }
 }

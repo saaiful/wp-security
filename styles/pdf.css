@@ -19,7 +19,7 @@ audio:not([controls]) {
 }
 
 html {
-    font-family: sans-serif;
+    font-family: Verdana, SolaimanLipi;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }

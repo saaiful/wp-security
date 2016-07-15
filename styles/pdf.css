@@ -393,7 +393,7 @@ body {
 }
 
 .page .section code, .page .section pre {
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-family: SolaimanLipi;
     direction: ltr;
     margin: 0;
     padding: 0;

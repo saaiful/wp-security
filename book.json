@@ -1,15 +1,9 @@
 {
-    "gitbook": "3.x.x",
-    "language": "bn",
     "pdf": {
         "headerTemplate": "ওয়ার্ডপ্রেস সিকিউরিটি - _SECTION_",
         "footerTemplate": "_AUTHOR_ / _PAGENUM_"
     },
     "styles": {
         "pdf": "styles/pdf.css"
-    },
-    "plugins": [
-        "typekit"
-    ],
-    "pluginsConfig": {}
+    }
 }

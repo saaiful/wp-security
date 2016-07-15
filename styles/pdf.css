@@ -18,14 +18,13 @@ audio:not([controls]) {
 }
 
 html {
-    font: 100% Solaimanlipi, AponaLohit, Verdana, Helvetica, Arial, sans-serif !important;
+    font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
 
 body {
-    margin: 0;
-    font: 100% Solaimanlipi, AponaLohit, Verdana, Helvetica, Arial, sans-serif !important;
+    margin: 0
 }
 
 a:focus {

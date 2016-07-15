@@ -9,7 +9,8 @@
         "pdf": "styles/pdf.css"
     },
     "plugins": [
-        "pdf-styling"
+        "pdf-styling",
+        "packt-fontsettings"
     ],
     "pluginsConfig": {
         "pdf-styling": {
